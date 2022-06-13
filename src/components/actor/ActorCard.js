@@ -18,6 +18,3 @@ const ActorCard = ({ image, name, gender, country, birthday, deathday }) => {
   );
 };
 export default ActorCard;
-
-
- 
